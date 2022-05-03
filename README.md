@@ -16,3 +16,5 @@
 <p align="justify">
   
 </p>
+
+## Part B: Research Based
