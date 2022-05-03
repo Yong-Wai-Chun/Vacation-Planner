@@ -90,6 +90,16 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
 
 ## Part B: Research Based (main_report.ipynb)
 
+!!! INSTRUCTIONS !!!
+1. Nothing especially complicated just run every cell in order.
+2. If you want to look back some outputs n visualization
+    a. To run for different outputs. Run cell that has --> ## Run this cell to view for the outputs of the implementation
+    b. To run for visualization. Run cell that has --> # Visualization
+3. To understand more, look at the markdown cells for more information on the process and function used.
+4. For parameters inputs, there are 2 sets of default parameters given.
+5. If want to use the default parameters, uncomment either one set.
+6. If want to have self customized parameters, uncomment the code block that is labeled --> ## Customize 
+
 <p align="center">
   <img width="40%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/giphy.gif?raw=true">
 </p>
