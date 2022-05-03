@@ -121,6 +121,10 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
   This report is very straight forward, it is mainly about analysis and explanation of the backend process. That is all from me, thank you very much.
 </p>
 
+## Summary and Findings
+
+## Reference
+
 <p align="center">
   <img width="40%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/giphy.gif?raw=true">
 </p>
