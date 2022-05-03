@@ -100,6 +100,27 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
 5. If want to use the default parameters, uncomment either one set.
 6. If want to have self customized parameters, uncomment the code block that is labeled --> ## Customize 
 
+<p align="justify">
+  For Part B report. The process and algorithms are explained in the notebook. Try to run each cell in order. If you want to look back at some vacation planner outputs, run the cell that has comments of ## Run this cell to view for the outputs of the implementation. If you want to look at the graph visualization on different evolutions' comparison, run the cell that has comments of # Visualization. Three different methods of selection, mutation and crossover are being used for comparisons. The graphs are all sample outputs, more details can be found at main_report.ipynb. The evolution methods are:
+</p>
+
+- Selection Methods
+  - Tournament Selection
+  - Roulette Wheel Selection
+  - Stochastic Universal Sampling
+- Mutation Methods
+  - Scramble Mutation
+  - Swap Mutation
+ - Inversion Mutation
+- Crossover Methods
+  - Two-points Crossover
+  - Multipoints Crossover
+  - Uniform Crossover
+
+<p align="justify">
+  This report is very straight forward, it is mainly about analysis and explanation of the backend process. That is all from me, thank you very much.
+</p>
+
 <p align="center">
   <img width="40%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/giphy.gif?raw=true">
 </p>
