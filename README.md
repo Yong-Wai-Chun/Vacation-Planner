@@ -111,7 +111,7 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
 - Mutation Methods
   - Scramble Mutation
   - Swap Mutation
- - Inversion Mutation
+  - Inversion Mutation
 - Crossover Methods
   - Two-points Crossover
   - Multipoints Crossover
@@ -122,8 +122,7 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
 </p>
 
 ## Summary and Findings
-
-## Reference
+In the nutshell, different evolution has different pros and cons. As for selection method, tournament selection is fairly easier to implement but roulette wheel has more diversity but quite slow because of the time complexity. As for mutation methods, inversion mutation provides the most consistent fitness score whereas the other two has high complexity and it can provide better variety. Lastly crossover methods, multipoints crossover and uniform crossover are the most ideal because they have provides high diversity.
 
 <p align="center">
   <img width="40%" src="https://github.com/Yong-Wai-Chun/Python-Maze-Library-Mod/blob/main/components/giphy.gif?raw=true">
