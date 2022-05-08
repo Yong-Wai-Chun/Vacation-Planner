@@ -1,3 +1,7 @@
+## Vacation Planner UI simulation
+# This UI is created using streamlit API
+# It has real time interaction
+
 from click import option
 import pandas as pd
 import numpy as np
