@@ -95,8 +95,11 @@ That is all for Part A. The program is fairly easy to use. Just adjust the param
 !!! INSTRUCTIONS !!!
 1. Nothing especially complicated just run every cell in order.
 2. If you want to look back some outputs n visualization
+    
     a. To run for different outputs. Run cell that has --> ## Run this cell to view for the outputs of the implementation
+    
     b. To run for visualization. Run cell that has --> # Visualization
+
 3. To understand more, look at the markdown cells for more information on the process and function used.
 4. For parameters inputs, there are 2 sets of default parameters given.
 5. If want to use the default parameters, uncomment either one set.
