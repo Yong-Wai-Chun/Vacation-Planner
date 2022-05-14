@@ -14,6 +14,8 @@
 ## Part A: Application Based (mainUI.py)
 ### Instructions and explanation
 <p align="justify">
+  !!! PLEASE MAKE SURE ALL THE FILES AND FOLDERS INCLUDING THE COMPONENTS FOLDER ARE INCLUDED IN THE SAME DIRECTORY !!!
+  
   Part A is about mainUI.py. To run this program, I used Microsoft Visual Studio. First got to VS code and create a new terminal, make sure it is in cmd. At the top navigation panel, go to Terminal -> New Terminal. Then, at the terminal right side, there is a drop down arrow beside a plus sign, click it and choose cmd. After that at the terminal, type in 'streamlit run mainUI.py' and you will get a browser window pops up. That means you have successfully run the program. Before that, make sure to download the streamlit library on your machine because this program heavily depends on streamlit API.
 </p>
 
